@@ -1,1 +1,12 @@
+💠 Topic: EDA on the dataset Global Terrorism.
 
+💠 Tool used: Power BI
+
+💠 Level: Intermediate
+
+💠 Task Description: As a defense analyst try to find hot zones of terrorism.
+
+I have created an informative and attractive dashboard using Power BI to visualize hot zones, main targets, most used weapons in the terror attacks which took place all over the world from year 1970 to 2017.
+I have removed some of the columns which were not needed using power query editor and also created a new column named 'casualties' by adding killed and wounded attributes.
+
+I have also placed a filter on the attribute 'year' using visual named slicer. Like if we selected a particular year all the visuals will be filtered by that particular year.
